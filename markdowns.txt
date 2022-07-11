@@ -1,6 +1,6 @@
 Unit 1 - Frontend-Fundamentals
     "https://seir-batch.netlify.app/course-materials/frontend-fundamentals"
-
+    
     Week 1
         Day 1 - Classroom Culture, the Dev Environment & Git/Github
             Markdown- "https://seir-batch.netlify.app/frontend-fundamentals/week-1/day-1/"
@@ -83,7 +83,7 @@ Unit 3 - React Fundamentals
         Markdown - "https://seir-batch.netlify.app/unit-projects/unit-three-project-requirements/"
 
 
-Unit 1 - Frontend-Fundamentals
+Unit 4 - Frontend-Fundamentals
     "https://seir-batch.netlify.app/course-materials/second-language"
 
     Week 1
