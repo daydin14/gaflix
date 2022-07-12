@@ -1,0 +1,135 @@
+Class Recodings:
+Unit 1 - Frontend-Fundamentals
+    "https://seir-batch.netlify.app/course-materials/frontend-fundamentals"
+
+    Week 1
+        Day 1 - Classroom Culture
+            Zoom - "https://generalassembly.zoom.us/rec/play/8FXJ2AXSi-LElGCFu6m811lVoUuJLLFvJyS6cXbKH6ePHSrYA-b3KHr3QvJbpgMHlLJLiGs3HLOdvKbS.ZjK0Ks48Rm_VL2It?continueMode=true&_x_zm_rtaid=4LFsYsHETZW7ZEYoOrMiNw.1657580399583.b01673ea89b1f8485878f8802f2ce97c&_x_zm_rhtaid=203"
+        Day 2 - Intro to the Dev Environment/Git 
+            Zoom - "https://generalassembly.zoom.us/rec/play/Tc-9zXVGNV4gtRUCnk4KQ-MX1OciWjXtGGfIGM8ebn6K9fRFn66XyRM4Ci6jEjzE7UHBQvJezBVyyWt_.CbOUq4hcu2SpcHAQ?continueMode=true&_x_zm_rtaid=4LFsYsHETZW7ZEYoOrMiNw.1657580399583.b01673ea89b1f8485878f8802f2ce97c&_x_zm_rhtaid=203"
+        Day 3 - Intro to JavaScript and Control Flow 
+            Zoom - "https://generalassembly.zoom.us/rec/play/pQ9rA7ULhvZlxtIIHehcK4qxXMkkPbi8R8zc6dQAi5R7GBP071D81Ku3dMCuJpYqjteUwnqTKQzoh6k8.AHCdWA5OI1KVjYLB?continueMode=true&_x_zm_rtaid=4LFsYsHETZW7ZEYoOrMiNw.1657580399583.b01673ea89b1f8485878f8802f2ce97c&_x_zm_rhtaid=203"
+
+            Part 2 - "https://generalassembly.zoom.us/rec/play/GXEdhN2hoNIyLnEX71-m9kuP0wkXTytiP9Ae__PNCPxDJrTIqzrsCeLSN8-q8ojJ7W2O9DOa3vV1VQ.ih5xKuEPYyS3f56o?continueMode=true&_x_zm_rtaid=4LFsYsHETZW7ZEYoOrMiNw.1657580399583.b01673ea89b1f8485878f8802f2ce97c&_x_zm_rhtaid=203"
+        Day 4 - JS Arrays & Objects
+            Zoom - "https://generalassembly.zoom.us/rec/play/sffdij3UFeAzXO6ekYfIba1LzgtkHwF9MmVMnBhFru7HwSs9a8EhLL0YOhDLbixhpzzQCmH-oR2Zy-AM.zUT1HMfwLdukBapX?continueMode=true&_x_zm_rtaid=4LFsYsHETZW7ZEYoOrMiNw.1657580399583.b01673ea89b1f8485878f8802f2ce97c&_x_zm_rhtaid=203"
+        Day 5 - JS Classes & Intro to The DOM 
+            Zoom - "https://generalassembly.zoom.us/rec/play/JHAEZcKS2j6aBhmawd4l5Nx1sRtEy0xrrT-1bYCDIQRaXDImMDsY9Etm14KL3m08nVU0iynEQQQXsz8w.fZKhWy8cYF5aGM-T?continueMode=true&_x_zm_rtaid=4LFsYsHETZW7ZEYoOrMiNw.1657580399583.b01673ea89b1f8485878f8802f2ce97c&_x_zm_rhtaid=203"
+
+            Bonus <Previous Intro to The DOM> - "https://generalassembly.zoom.us/rec/play/Iy0PNeE37G5jDTa4LbK0XJfhWDePm6o6tp3Y1kpirvsMsTQ2Qjljfatqmb56ExD63QedNC4bzUEIWX2k.E4FntYw1qWecLh8n?_x_zm_rhtaid=304&_x_zm_rtaid=QIzp2al0Tm67gVWwZ-EY8g.1638553038356.3b8dc4a3c671a230aab0e75a9cd4dc52&autoplay=true&continueMode=true&startTime=1621009472000"
+    Week 2
+        Day 1 - CSS Flexbox/Grid & Responsive Design
+            Zoom - "https://generalassembly.zoom.us/rec/play/23TdybN5nlC5lYMBVZ7s7tKP7uK_HkTsSGeJF3PvLAAoS1EFOvHT4QcKcN76swLuT_31M4XHsnY5O4um.6oz2zX9CwFPkFc5f?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+        Day 2 - Intro to D.O.M. Events 
+            Zoom - "https://generalassembly.zoom.us/rec/play/fetlbG9v6_4nU477SMYp2moVamZFrBn5unDRJGnEuMUNE1orbGZFbam0zqTfIDrDmVkQz9ALQIVDkdae.GsrWHe94Mutu9MMB?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+
+            Additional <Intro to jQuery Part 1> - "https://generalassembly.zoom.us/rec/play/jtKTDqezYyoG3FbyL2VWOt8I6xxCGjOqa44VLHe-B2ILAH67C6U31vClOmm_25_uBU4KQBiz_uVbesYX.JlCSZN23m50CEv30?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+        Day 3 - Intro to jQuery & Array Iterators 
+            Zoom - "https://generalassembly.zoom.us/rec/play/2JXqe6oednChKpkBiDDQxHI-QLL3-x2emYjbNTjZq7jWv8YU1SDwz7ZVFJ7pj2aRpG52H6hmAXL7sBvN.rC7oe_MKedIqxY8d?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+        Day 4 - Intro to jQuery p2. & Intro to AJAX pt1 
+            Zoom - "https://generalassembly.zoom.us/rec/play/lbIAErOx94YfZ1PvotQCYOi82mO2L-JLrcXNuVDauhJ9rIMXIc1QmjlAd-0xaGg4TXOQR_e_gV8jTt-q.k2qP0bpL6trw1Nop?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+
+            Additional - "https://generalassembly.zoom.us/rec/play/ZmTVOYAE38V-yetXttECmaAgnYW4EL6it1jPiRuGLg26GR3aqpVuNrF09RjvQp2fQjW_CSxzn4G2se8H.ZQLkBHlLWOqLDbpl?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+        Day 5 - Intro to AJAX pt2
+            Zoom - "https://generalassembly.zoom.us/rec/play/I9DsPTnOCw76H893szFGp7oxWAjvomvaF01DGJQYdSosQRBUaUPIDUjjFb--PzdF1T_JrJaLuppDv1hA.SsUUei1Oh8vzjjuC?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+    Week 3
+        Project Presentations (Earth & Fire) - "https://generalassembly.zoom.us/rec/play/ToaNZd17hNlCTT5fGg8OEQPJ0h0nGxqUPK2ohAg8erfczKxIVl0vpNGHvhYs2G1HA2tdvkA2X_wkXSEy.fMetLc2nNQEI0Au6?continueMode=true"
+
+        Project Presentations (Water & Air) - "https://generalassembly.zoom.us/rec/play/HMwZcu4q8X-Kl3UA5DzX4W3I5yCwOiBK9__nJICZiw_8TKCsNrBwnBWvMEW9AwlEPTgLQQC6jyZAofBp.7aoNoTLZhYTo2j64?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+
+Unit 2 - Full Stack Development
+    "https://seir-batch.netlify.app/course-materials/full-stack-development"
+
+    Week 1
+        Day 1 - Intro to Full-Stack Development, Express, & Node
+            Zoom - "https://generalassembly.zoom.us/rec/play/Ukp7-Nw69sqOTSmKpiDNoA8bnMaOTcUr2YhEtc5yvbRvVAc0kQRcIJ4rO8YxseWTgIutWN7b-3MQHRO5.mImNsyVdhHB6HS5w?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+
+            Additional <URL and Query Params> - "https://generalassembly.zoom.us/rec/play/cFvKN7EsC3qj2vFLeNOcZW62IyZXpk-_5FE-BGw4qyh5BLMCWzXdHeBbh8vL4BvJ0A41kzKHpFa1tqk5.E_WMk4PLzHr_Ok7w?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+        Day 2 - Intro to REST (Index/Show) 
+            Zoom - "https://generalassembly.zoom.us/rec/play/CKNaGe0xfyUaFAwoXFwpYUBvbopQAh92iy4VkiF1XFlddMYsz_7_CuScorcI5bEmK-kDz6oGm-6h662k.RfkAxuPU5UeM_O1y?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+
+            Additional <Intro to MVC> - "https://generalassembly.zoom.us/rec/play/s7b44wraUhKQ3azOlewIBtty0st-eA9rBgPa-Pz6mW2KUzXOxFNRDJD8o_e4yG0H1mbQCJMgnvG5tYDw.s0vE_Kcb1rjCB-hA?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+        Day 3 - New & Create with Express 
+            Zoom - "https://generalassembly.zoom.us/rec/play/-ztbbL5pet6rxNPUWoLWg0w3UjBebcyAf5CBJ-_UA9KgaEsUZm-OnMkw5N3ASFoSLTQx1ZjmlHCzMijp.5N9WnKe6SWfFKuPj?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+
+            Additional <cURL> - "https://generalassembly.zoom.us/rec/play/FQKYtKxklIBUjqBJoOG-8M-a_-xBEEt8AbpE2qiBKr-P76a38E7H3GIywEWt6uENkqJpglQrbpIjnk3s.Bei2FIVkvAZQpink?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+        Day 4 - EJS Partials, Update & Delete with Express
+            Zoom - "https://generalassembly.zoom.us/rec/play/Y6yMR9aAtweYfMEbW80mx6mXhEITsAGA3-SeFtg5wMz5uSp7yBcnGGlPJF0rdXb7RlIkgV0Otf7wHfXI.hPaxOKNHaSMYPjzi?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+    Week 2
+        Day 1 - Intro to MongoDB, Atlas, & Intro to Mongoose 
+            Zoom - "https://generalassembly.zoom.us/rec/play/UATQeHt0b8_tGuWicokFcjOhcybOZ5znG3VI-ESRoDNFqO51tF_N3tHfdDgtgqV6zTeuAmcN-eciOEaL.QGOfVXLhRp9olh3w?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+
+            Additional <Mongoose> - "https://generalassembly.zoom.us/rec/play/lLGTT4QdjEb_CSBiJsL-qzNrvxWCvj0ZbQVcq6s-Nvn3CazRYDGBanEqV4JdE_PwgEOzcolNloNdetn-.qTDK1sHWfW4mAVj5?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+
+            Previous Recording - "https://generalassembly.zoom.us/rec/play/xNOQxMJZOf3W1CcxHieHM0NJo7crEoJENIzZpmvxUY8O5C19f5g6LIJkmpVEq19WAU4XhvkG_dWs2o-H.E7m_sUaMJcmt0Fen?autoplay=true&continueMode=true&startTime=1641220087000"
+        Day 2 - CRUD APP: Booklist Create & Read
+            Zoom - "https://generalassembly.zoom.us/rec/play/uCyKDoBHx4PaRRurSY0-JEKL8Hm1roQlyAk6QmIfENJbRBAV8kjebsavT8bN7VVcGNiep5b-WR633gHg.srYU5FBaHwlsUFKz?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+
+            Additional <Creating a Seed Route> - "https://generalassembly.zoom.us/rec/play/xbWUXcto2pIQjYWZgtl6jWaksvnpAWgIi9F71i73ykzVaamhVb1xxmfDZLjQ-JDvr1FFsXYMWDhReqUv.jbj1d8wcqRVNeajX?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+        Day 3 - CRUD APP: Booklist Update & Delete
+            Zoom - "https://generalassembly.zoom.us/rec/play/Sc06loSKT2jxUHVWhTbJpMwo4W9Sk4wzhNO0WGWHAkZdLSQLHbZNvYLCDV3XgKtf4n-eyrF_Hr2ksh7K.oBBBhceokzjF8ZAQ?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+
+            Additional <Express Router> - "https://generalassembly.zoom.us/rec/play/Q_MoOWaYv7TEEIAU4dgDtTHcBTZxn7Sh5iP49QwQh2Tcxe6gfkwfvslOyQKYpmRz-pNyi-izcA2SPPyr.3gKxrEILxzBffXW6?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"      
+Day 4 - [Thursday, May 26th (Check with Paul about recording links)]  
+        Day 5 - Two Model CRUD
+            Zoom - "https://generalassembly.zoom.us/rec/play/ueDoAW0Zl1pVpzIGFamcd2QQ1FP2bvlzjGjL37qVrMeyNrBwPLrLEb6X0248c0TlLGsWnQvsA2EGIryo.WQj9Chp5v6fkE_u5?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+    Week 3
+        Project Presentations (Earth & Water) - "https://generalassembly.zoom.us/rec/play/S85UjjOUXnUSPo7vNTW3SFkVJZS6gyP3dYCZ0dPuqQbxsPv2E5lxc-7GbfUqL07aH5rSv88TzqvjqbpC.P8_VEJ3-Ct1Zsfmj?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+
+        Project Presentations (Fire & Air) - "https://generalassembly.zoom.us/rec/play/xUmX1zTRyG3djXamsaghuTJQ8LCxH5ZZlKs1B9btgU9Vux0sGl5_3ECpWkGni3T96mWKCCVGlBxlX1gW.KJb-EAJeLxsvSomL?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+
+
+Unit 3 - React Fundamentals
+    "https://seir-batch.netlify.app/course-materials/react-fundamentals"
+
+    Week 1
+        Day 1 - Intro to React 
+            Zoom - "https://generalassembly.zoom.us/rec/play/IJmXJNB4C9uhhE_vmiqWmxfAtPLflsxzjFkNhtUG0Q4RG4dZhXzaIa9fVQCIAx6KMTPz-33gcofLyJhx.3w0men-tpwA1C4q0?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+        Day 2 - Intro to Props 
+            Zoom - "https://generalassembly.zoom.us/rec/play/mveLMc_-SU9IMIUTR0gh_qV2NhKhEnfFloOTK82ul-lmNl8VJQazsTbYKR5ipv1OecyhoswQoA9tVSpR.yFoVmh0PYZD-dOSJ?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+        Day 3 - Intro to State 
+            Zoom - "https://generalassembly.zoom.us/rec/play/u2cfIT-DrPEah3rDy_NdHMlGlE677Cvspi0462iqhJ1tj25umRMetdhvCX2c5RfauYh3OjedF07F0X5Q.nVjBlOr7LO0tIQ8n?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+
+            Additional <React Movie Search> - "https://generalassembly.zoom.us/rec/play/pdtXKsZASzsY38RNHLf-PwHKxSL9T8GbeJbbjADQrdjjVbila55zdX3aLULaok2nZc6FruMlR3Cx0Mfs.BaW4O24MYCtdXP_1?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+        Day 4 - React Movie Search Part 2
+            Zoom - "https://generalassembly.zoom.us/rec/play/DGvIpKqc1Kh24RuiXFyF3NukEuYl406dwedu8AYj2pPlVIkVgyay95bPlH_kfNKPZiq0Wh1GKXZ9YPGc.TaOb3frEynMQoiD4?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+
+            Additional <Intro to React Router> - "https://generalassembly.zoom.us/rec/play/GZzcevRF63XwnkRz61prR2ASXvS2BoGbWH3lremLLGo2GoOLpx5kBtXV83HwmA-tJVOxCpMZ7DOrxa_M.tU5m_Foy6Lp2v1zi?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+
+            Bonus <Previous Movie Search Part 2 and Complete React Router> - "https://generalassembly.zoom.us/rec/play/af2WkMnts6RuGvEDgoDFNuScv3wKTgpA1beRAzlbBtslf_BT2ETvHywAbN8ERrcBa-lcH9arySaFj4OA.X24AjZe4AzPXEdbG?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+Day 5 - [Friday, June 10th (Check with Paul about recording links)]
+    Week 2
+        Day 1 - M.E.R.N. Build Part 1 & 2
+            Zoom - "https://generalassembly.zoom.us/rec/play/nZFh4X1WT4S813PTD6z1nG_waVh3GoPXOxVFLnoFvRliGuXcCfcQj4HriWu1olu9lNH5eTUMBo-qmSdG.y7b7fIJ09jKQf860?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+        Day 2 - M.E.R.N. Build Part 3
+            Zoom - "https://generalassembly.zoom.us/rec/play/NRejS2QkxxH4wnRoDicLD4X4Scg02269KEO89hJJvodUNCoW2ieNPYbiFyD9xkR1MQNAqY3Pj-gu7Usn.ETQbjQ_Hh-lD3vQ1?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+
+            Additional <Git Work Flow W/ Kelsey & Michael> - "https://generalassembly.zoom.us/rec/play/4pXyErnDKiLbaRSIF5QPY-I8ZuXVNdlg0WkwcwQNngz8P1-8uQ6uRQvI-7DXTGXkzGPJZwg-BNKJTHvt.AYqQ3WAbITdnWNZZ?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+    Week 3
+        Project Presentations (Full Class) - "https://generalassembly.zoom.us/rec/play/NIcz097HL7FHvXe6lobckeVhXcCN9PEjSqQEMErGL5szVpAW9k71RzF99Ja2gLxK1Tmd4AlEup0tMhHQ.kkoli_EuwefzsDCO?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+
+
+Unit 4 - Frontend-Fundamentals
+    "https://seir-batch.netlify.app/course-materials/second-language"
+
+    Week 1
+        Day 1 - Intro to SQL and Relational Databases
+            Zoom - "https://generalassembly.zoom.us/rec/play/b84PjEonUvr8MfJ14J3h-MHJuErpVwg1PL2haLLUk8wO0qwP8FlJuakUSINaX9ENUjCZETTdUEfnDf-6.DYx1GT_eEOUab5LZ?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+        Day 2 - Intro to Python & Control Flow 
+            Zoom - "https://generalassembly.zoom.us/rec/play/uk_bsAM9Q_jCO4jbxPKb_GP0TR8UrAX5p5D7rZjLn35E8scNM6INkYQHWW__6aOTOzEgNpxaFdbwokJl.cKEge0zHqW-cVxJ_?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+        Day 3 - Intro to Python & Containers 
+            Zoom - "https://generalassembly.zoom.us/rec/play/t67XSE9NSTMFg7wSs-mlAjIC-iRhuEQONRO-hCI_Z8CIDiZ3la9rCkbOoYZNOmqATKGMgicpolhXM7AP.v548V-m30Nz63MA_?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+        Day 4 - Intro to Python Functions & Python Classes
+            Zoom - "https://generalassembly.zoom.us/rec/play/7ScLZ_MqJiHaVXzlINaynLn2Z89YF0CPpQU4jG-iFAwApH108atPUm23g3d3gdsd1o9KpalDusO2J2in.eEgyZvK1LOlZEVRv?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+        Day 5 - Intro to Django
+            Zoom - "https://generalassembly.zoom.us/rec/play/FLoZ_pICZeAXs4IEGAF1qPzSseCrRLJ65ijYWo2eGtqp0ugMsWJ2K3OtH4R4TvEaQWXhN0zOCm46jJZT.vMQ9YRu8BDMtqQS_?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+    Week 2
+        Day 2 - Django URLs, Views & Templates/ Intro to Django Models 
+            Zoom - "https://generalassembly.zoom.us/rec/play/EpOYQboDoIw8s4wLInvmgqe85W3mmpdjJdLr21Bx6lrxt6_fjGGWkdOGqoxe6AoLCX87uJ5cYWVc7gdV.N65hAu98nGY3ULH5?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+        Day 3 - Intro to Django Models (Continued)/ Class Based Views/ One-to-Many Relationships Part 1
+            Zoom - "https://generalassembly.zoom.us/rec/play/8ATdVk7K110lOwkylr2ukXxDGGGKZtamLeJGIm_qfPFN3TPeHLnr6yZ6-kFkqa6gGFjcGAATHuTG5fjA.zxkubAKhjxgbRw0E?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+        Day 4 - One-to-Many Relationships Part 2/ Many-to-Many Relationships/ Photo Upload with AWS 
+            Zoom - "https://generalassembly.zoom.us/rec/play/ROMmML0Gz6563fisuLQL_ZcYYMSEDn_2GsI_ChonwgtzstaHdR49BgIlySHK1IEr7Qdld5cLKXFcMWo.6RoxmmXVHc8T_x80?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+        Day 5 - Django Authentication and Deployment
+            Zoom - "https://generalassembly.zoom.us/rec/play/USoQAWgoX-g3tbkTubxjE5IqgHSzJkBhugPm6tQOHQe9ngaT4oA7A1odJUoZcCvWBcmaJr-3XYBVm1IW.rxg2hMXtKGL7Db51?continueMode=true&_x_zm_rtaid=Wp7VpY_tSNimiQjkcF7FHA.1657582597919.afbb5d29f880be57fb5bc6d607654ee9&_x_zm_rhtaid=487"
+    Week 3

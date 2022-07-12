@@ -1,6 +1,6 @@
 Unit 1 - Frontend-Fundamentals
     "https://seir-batch.netlify.app/course-materials/frontend-fundamentals"
-    
+
     Week 1
         Day 1 - Classroom Culture, the Dev Environment & Git/Github
             Markdown- "https://seir-batch.netlify.app/frontend-fundamentals/week-1/day-1/"
