@@ -1,4 +1,10 @@
 {% extends 'base.html' %} {% block content %}
-<h1>Resource Page</h1>
+<h1>Resources</h1>
 
-{% endblock %}
+{% for element in resources %}
+<div>
+  <a href="{% url 'resource_detail' element.id %}"
+    ><h6>{{element.resource_title}}</h6></a
+  >
+</div>
+{% endfor %} {% endblock %}
