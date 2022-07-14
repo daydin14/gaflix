@@ -1,4 +1,9 @@
-{% extends 'base.html' %} {% block content %}
+{% extends 'base.html' %} {% block content %} {% if object %}
+<h1>Edit <span class="teal-text">{{object.name}}</span></h1>
+<button><a href="/resources/">Back</a></button>
+{% else %}
+<h1>Add Resource</h1>
+{% endif %}
 
 <h5>Add New Resource:</h5>
 <form action="" method="post">
@@ -7,6 +12,7 @@
     {{ form.as_table }}
   </table>
   <input type="submit" value="Submit!" class="btn" />
+  <button class="btn"><a href="/resources/">Back</a></button>
 </form>
 
 {% endblock %}

@@ -13,8 +13,3 @@ footer {
   padding-top: 0;
   text-align: right;
 }
-
-.resources-list {
-  display: flex;
-  flex-direction: row;
-}
