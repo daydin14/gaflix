@@ -36,13 +36,6 @@ class ResourceDelete(DeleteView):
     model = Resources
     success_url = '/resources/'
 
-
-def course_details(request):
-    return render(request, 'course-details.html')
-
-def class_material(request):
-    return render(request, 'class-material.html')
-
 def signup(request):
     error_message = ''
     if request.method == 'POST':
@@ -56,3 +49,9 @@ def signup(request):
     form = UserCreationForm()
     context = {'form': form, 'error_message': error_message}
     return render(request, 'registration/signup.html', context)
+
+def course_details(request):
+    return render(request, 'course-details.html')
+
+def class_material(request):
+    return render(request, 'class-material.html')

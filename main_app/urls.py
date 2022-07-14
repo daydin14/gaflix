@@ -6,9 +6,6 @@ urlpatterns = [
     path('', views.home, name='home'),
     
     
-    
-    
-    
     path('resources/', views.resourceIndex, name='resource_list'),
     
     path('resources/<int:resource_id>/', views.resourceDetail, name='resource_detail'),
@@ -25,9 +22,7 @@ urlpatterns = [
     path('accounts/signup/', views.signup, name='signup'),
 
 
-    # path('course-details/', views.course_details, name='course-details'),
+    path('course-details/', views.course_details, name='course-details'),
     
-    # path('class-material/', views.class_material, name='class-material'),
-
-
+    path('class-material/', views.class_material, name='class-material'),
 ]
