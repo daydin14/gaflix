@@ -1,4 +1,5 @@
 from django.urls import path
+from django.conf.urls import include
 from . import views
 
 urlpatterns = [
@@ -7,6 +8,12 @@ urlpatterns = [
     path('resources/', views.resourceIndex, name='resource_list'),
     
     path('resources/<int:resource_id>', views.resourceDetail, name='resource_detail'),
+    
+    
+    
+    path('resources/create/', views.ResourceCreate.as_view(), name='resources_create'),
+    
+    
     
     path('course-details/', views.course_details, name='course-details'),
     

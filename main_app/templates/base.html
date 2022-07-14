@@ -28,6 +28,9 @@
           <ul class="right">
             {% comment %} {% if user.isAuthenticated %} {% endcomment %}
             <li><a href="/resources">Resources</a></li>
+            <li>
+              <a href="{% url 'resources_create' %}">Add New Resources</a>
+            </li>
             <li><a href="/course-details">Course Details</a></li>
             <li><a href="/class-material">Class Material</a></li>
             {% comment %} {% endif %} {% endcomment %}

@@ -1,10 +1,23 @@
 {% extends 'base.html' %} {% block content %}
-<h1>Resources</h1>
+<h6>Resources:</h6>
 
 {% for element in resources %}
-<div>
-  <a href="{% url 'resource_detail' element.id %}"
-    ><h6>{{element.resource_title}}</h6></a
-  >
+<div class="resources-list">
+  <ul>
+    <li>
+      <a href="{% url 'resource_detail' element.id %}">
+        <h6>{{element.resource_title}}</h6>
+      </a>
+    </li>
+
+    {% comment %} Update hyperlinks {% endcomment %}
+    <li>
+      <button><a href="">Update</a></button>
+    </li>
+
+    <li>
+      <button><a href="">Delete</a></button>
+    </li>
+  </ul>
 </div>
 {% endfor %} {% endblock %}
