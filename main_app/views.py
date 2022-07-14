@@ -1,19 +1,24 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from django.views.generic.edit import CreateView, UpdateView, DeleteView
+from django.contrib.auth import login
+from django.contrib.auth.forms import UserCreationForm
+from django.contrib.auth.decorators import login_required
+from django.contrib.auth.mixins import LoginRequiredMixin
 from .models import Resources
 
 def home(request):
     return render(request, 'home.html')
 
+@login_required
 def resourceIndex(request):
-    resources = Resources.objects.all()
+    resources = Resources.objects.filter(user=request.user)
     return render(request, 'main_app/resources.html', {'resources': resources} )
 
 def resourceDetail(request, resource_id):
     resources = Resources.objects.get(id=resource_id)
     return render(request, 'main_app/resources_detail.html', {'resources':resources})
 
-class ResourceCreate(CreateView):
+class ResourceCreate(LoginRequiredMixin, CreateView):
     model = Resources
     fields = '__all__'
     success_url = '/resources/'
@@ -39,7 +44,15 @@ def class_material(request):
     return render(request, 'class-material.html')
 
 def signup(request):
-    return render(request, 'signup.html')
-
-def login(request):
-    return render(request, 'login.html')
+    error_message = ''
+    if request.method == 'POST':
+        form = UserCreationForm(request.POST)
+        if form.is_valid():
+            user = form.save()
+            login(request, user)
+            return redirect('/')
+        else:
+            error_message = 'Invalid sign up - try again'
+    form = UserCreationForm()
+    context = {'form': form, 'error_message': error_message}
+    return render(request, 'registration/signup.html', context)

@@ -26,16 +26,18 @@
             </li>
           </ul>
           <ul class="right">
-            {% comment %} {% if user.isAuthenticated %} {% endcomment %}
+            {% if user.is_authenticated %}
             <li><a href="/resources">Resources</a></li>
             <li>
               <a href="{% url 'resources_create' %}">Add New Resources</a>
             </li>
             <li><a href="/course-details">Course Details</a></li>
             <li><a href="/class-material">Class Material</a></li>
-            {% comment %} {% endif %} {% endcomment %}
-            <li><a href="/signup">Sign Up</a></li>
-            <li><a href="/login">Login</a></li>
+            <li><a href="{% url 'logout' %}">Log Out</a></li>
+            {% else %}
+            <li><a href="{% url 'signup' %}">Sign Up</a></li>
+            <li><a href="{% url 'login' %}">Log In</a></li>
+            {% endif %}
           </ul>
         </div>
       </nav>

@@ -20,14 +20,14 @@ urlpatterns = [
     path('resources/<int:pk>/delete/', views.ResourceDelete.as_view(), name='resources_delete'),
     
     
+    path('accounts/', include('django.contrib.auth.urls')),
     
-    
-    
-    path('course-details/', views.course_details, name='course-details'),
-    
-    path('class-material/', views.class_material, name='class-material'),
+    path('accounts/signup/', views.signup, name='signup'),
 
-    path('login/', views.login, name='login'),
+
+    # path('course-details/', views.course_details, name='course-details'),
     
-    path('signup/', views.signup, name='signup')
+    # path('class-material/', views.class_material, name='class-material'),
+
+
 ]
