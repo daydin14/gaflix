@@ -13,3 +13,11 @@ footer {
   padding-top: 0;
   text-align: right;
 }
+
+nav .nav-wrapper {
+  background-color: crimson;
+}
+
+.page-footer {
+  background-color: crimson;
+}
